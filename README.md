@@ -6,6 +6,8 @@
   * Teams Power Users [Microsoft SQL Interview Question]
 * Complex date diffing (days, hours, seconds)
   * Average Post Hiatus (Part 1) [Facebook SQL Interview Question]
+* Date diffing using the INTERVAL keyword
+  * Second Day Confirmation [TikTok SQL Interview Question]
 
 ### Joins
 * Page With No Likes [Facebook SQL Interview Question]
