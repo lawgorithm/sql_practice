@@ -1,5 +1,9 @@
 # sql_practice
 
+### ROW_NUM
+* Get multiple data fields for the third transaction for every user
+  * User's Third Transaction [Uber SQL Interview Question]
+
 ### Timestamps
 * Events within a date range
   * Histogram of Tweets [Twitter SQL Interview Question]
