@@ -14,3 +14,7 @@
 
 ### CASE ... WHEN instead of IF
 * Laptop vs. Mobile Viewership [New York Times SQL Interview Question]
+
+### NULL handling
+* Replace IFNULL(X, 0) with COALESCE(X, 0)
+  * IBM db2 Product Analytics [IBM SQL Interview Question]
