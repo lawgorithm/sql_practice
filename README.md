@@ -7,6 +7,8 @@
 ### RANK() and DENSE_RANK()
 * Top 3 salaries, handling ties appropriately
   * Top Three Salaries [FAANG SQL Interview Question]
+* Top 5 musicians, handling ties appropriately
+  * Top 5 Artists [Spotify SQL Interview Question]
 
 ### ROW_NUM
 * Get multiple data fields for the third transaction for every user
