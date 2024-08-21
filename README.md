@@ -1,8 +1,14 @@
 # sql_practice
 
+### Rolling Averages
+* Rolling average of number of tweets
+  * Tweets' Rolling Averages [Twitter SQL Interview Question]
+
 ### ROW_NUM
 * Get multiple data fields for the third transaction for every user
   * User's Third Transaction [Uber SQL Interview Question]
+* Top three items per category by total spend
+  * Highest-Grossing Items [Amazon SQL Interview Question]
 
 ### Timestamps
 * Events within a date range
