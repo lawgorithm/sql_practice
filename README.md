@@ -3,6 +3,10 @@
 ### Rolling Averages
 * Rolling average of number of tweets
   * Tweets' Rolling Averages [Twitter SQL Interview Question]
+ 
+### RANK() and DENSE_RANK()
+* Top 3 salaries, handling ties appropriately
+  * Top Three Salaries [FAANG SQL Interview Question]
 
 ### ROW_NUM
 * Get multiple data fields for the third transaction for every user
