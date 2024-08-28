@@ -33,6 +33,8 @@
 
 ### Joins
 * Page With No Likes [Facebook SQL Interview Question]
+* Self-joins on different columns
+  * [Well Paid Employees [FAANG SQL Interview Question].ipynb](https://github.com/lawgorithm/sql_practice/blob/main/Well_Paid_Employees_%5BFAANG_SQL_Interview_Question%5D.ipynb)
 
 ### CASE ... WHEN instead of IF
 * Laptop vs. Mobile Viewership [New York Times SQL Interview Question]
