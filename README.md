@@ -24,6 +24,8 @@
   * Average Post Hiatus (Part 1) [Facebook SQL Interview Question]
 * Date diffing using the INTERVAL keyword
   * Second Day Confirmation [TikTok SQL Interview Question]
+* DATE() function to extract date from timestamp
+  * [Odd and Even Measurements [Google SQL Interview Question].ipynb](https://github.com/lawgorithm/sql_practice/blob/main/Odd_and_Even_Measurements_%5BGoogle_SQL_Interview_Question%5D.ipynb)
 
 ### Joins
 * Page With No Likes [Facebook SQL Interview Question]
