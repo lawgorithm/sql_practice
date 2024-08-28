@@ -30,6 +30,12 @@
   * [Odd and Even Measurements [Google SQL Interview Question].ipynb](https://github.com/lawgorithm/sql_practice/blob/main/Odd_and_Even_Measurements_%5BGoogle_SQL_Interview_Question%5D.ipynb)
 * Finding earliest or latest timestamp
   * [Histogram of Users and Purchases [Walmart SQL Interview Question].ipynb](https://github.com/lawgorithm/sql_practice/blob/main/Histogram_of_Users_and_Purchases_%5BWalmart_SQL_Interview_Question%5D.ipynb)
+* EXTRACT() to get month number or year number
+  * [Active User Retention [Facebook SQL Interview Question].ipynb](https://github.com/lawgorithm/sql_practice/blob/main/Active_User_Retention_%5BFacebook_SQL_Interview_Question%5D.ipynb)
+ 
+### EXISTS()
+* Get users active (exist) this month who also were active (existed) last month
+  * [Active User Retention [Facebook SQL Interview Question].ipynb](https://github.com/lawgorithm/sql_practice/blob/main/Active_User_Retention_%5BFacebook_SQL_Interview_Question%5D.ipynb)
 
 ### Joins
 * Page With No Likes [Facebook SQL Interview Question]
