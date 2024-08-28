@@ -15,6 +15,8 @@
   * User's Third Transaction [Uber SQL Interview Question]
 * Top three items per category by total spend
   * Highest-Grossing Items [Amazon SQL Interview Question]
+* Get odd an even measurements (by daily measurement time) from a sensor
+  * [Odd and Even Measurements [Google SQL Interview Question].ipynb](https://github.com/lawgorithm/sql_practice/blob/main/Odd_and_Even_Measurements_%5BGoogle_SQL_Interview_Question%5D.ipynb)
 
 ### Timestamps
 * Events within a date range
