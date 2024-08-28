@@ -10,7 +10,7 @@
 * Top 5 musicians, handling ties appropriately
   * Top 5 Artists [Spotify SQL Interview Question]
 
-### ROW_NUM
+### ROW_NUM()
 * Get multiple data fields for the third transaction for every user
   * User's Third Transaction [Uber SQL Interview Question]
 * Top three items per category by total spend
@@ -36,6 +36,10 @@
 ### EXISTS()
 * Get users active (exist) this month who also were active (existed) last month
   * [Active User Retention [Facebook SQL Interview Question].ipynb](https://github.com/lawgorithm/sql_practice/blob/main/Active_User_Retention_%5BFacebook_SQL_Interview_Question%5D.ipynb)
+ 
+### LAG()
+* Get last year spend and this year spend to create a YoY spend change
+  * [https://github.com/lawgorithm/sql_practice/blob/main/Y_on_Y_Growth_Rate_%5BWayfair_SQL_Interview_Question%5D.ipynb](https://github.com/lawgorithm/sql_practice/blob/main/Y_on_Y_Growth_Rate_%5BWayfair_SQL_Interview_Question%5D.ipynb)
 
 ### Joins
 * Page With No Likes [Facebook SQL Interview Question]
