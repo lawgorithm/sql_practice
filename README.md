@@ -40,3 +40,7 @@
 ### NULL handling
 * Replace IFNULL(X, 0) with COALESCE(X, 0)
   * IBM db2 Product Analytics [IBM SQL Interview Question]
+ 
+### Tricky subqueries 
+* SELECTing from another table in a WHERE clause for filtering
+  * [Compressed Mode [Alibaba SQL Interview Question].ipynb](https://github.com/lawgorithm/sql_practice/blob/main/Compressed_Mode_%5BAlibaba_SQL_Interview_Question%5D.ipynb)
