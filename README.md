@@ -44,3 +44,8 @@
 ### Tricky subqueries 
 * SELECTing from another table in a WHERE clause for filtering
   * [Compressed Mode [Alibaba SQL Interview Question].ipynb](https://github.com/lawgorithm/sql_practice/blob/main/Compressed_Mode_%5BAlibaba_SQL_Interview_Question%5D.ipynb)
+
+### Casting to other data types
+* Casting integers to decimal
+  * [Compressed_Mean_[Alibaba_SQL_Interview_Question].ipynb](https://github.com/lawgorithm/sql_practice/blob/main/Compressed_Mean_%5BAlibaba_SQL_Interview_Question%5D.ipynb)
+
