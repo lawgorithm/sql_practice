@@ -8,7 +8,7 @@
 * Top 3 salaries, handling ties appropriately
   * [Top Three Salaries [FAANG SQL Interview Question]](https://github.com/lawgorithm/sql_practice/blob/main/Top_Three_Salaries_%5BFAANG_SQL_Interview_Question%5D.ipynb)
 * Top 5 musicians, handling ties appropriately
-  * Top 5 Artists [Spotify SQL Interview Question]
+  * [Top 5 Artists [Spotify SQL Interview Question]](https://colab.research.google.com/github/lawgorithm/sql_practice/blob/main/Top_5_Artists_%5BSpotify_SQL_Interview_Question%5D.ipynb)
 
 ### ROW_NUM()
 * Get multiple data fields for the third transaction for every user
