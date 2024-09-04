@@ -41,6 +41,10 @@
 * Get last year spend and this year spend to create a YoY spend change
   * [Y_on_Y_Growth_Rate_[Wayfair_SQL_Interview_Question].ipynb](https://github.com/lawgorithm/sql_practice/blob/main/Y_on_Y_Growth_Rate_%5BWayfair_SQL_Interview_Question%5D.ipynb)
 
+### LEAD()
+* Get total up time for serves with table that has start and stop times.
+  * [Server_Utilization_Time_[Amazon_SQL_Interview_Question].ipynb](https://github.com/lawgorithm/sql_practice/blob/main/Server_Utilization_Time_%5BAmazon_SQL_Interview_Question%5D.ipynb))
+
 ### Joins
 * [Page With No Likes [Facebook SQL Interview Question]](https://github.com/lawgorithm/sql_practice/blob/main/Page_With_No_Likes_%5BFacebook_SQL_Interview_Question%5D.ipynb)
 * Self-joins on different columns
