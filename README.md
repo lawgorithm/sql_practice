@@ -25,7 +25,7 @@
 * Complex date diffing (days, hours, seconds)
   * Average Post Hiatus (Part 1) [Facebook SQL Interview Question]
 * Date diffing using the INTERVAL keyword
-  * Second Day Confirmation [TikTok SQL Interview Question]
+  * [Second Day Confirmation [TikTok SQL Interview Question]](https://github.com/lawgorithm/sql_practice/blob/main/Second_Day_Confirmation_%5BTikTok_SQL_Interview_Question%5D.ipynb)
 * DATE() function to extract date from timestamp
   * [Odd and Even Measurements [Google SQL Interview Question].ipynb](https://github.com/lawgorithm/sql_practice/blob/main/Odd_and_Even_Measurements_%5BGoogle_SQL_Interview_Question%5D.ipynb)
 * Finding earliest or latest timestamp
