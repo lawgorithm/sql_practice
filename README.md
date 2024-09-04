@@ -1,8 +1,8 @@
 # sql_practice
 
 ### Rolling Averages
-* Rolling average of number of tweets
-  * Tweets' Rolling Averages [Twitter SQL Interview Question]
+* Rolling average of number of tweets (e.g. ROWS BETWEEN 2 PRECEDING AND CURRENT ROW)
+  * [Tweets' Rolling Averages [Twitter SQL Interview Question]](https://github.com/lawgorithm/sql_practice/blob/main/Tweets'_Rolling_Averages_%5BTwitter_SQL_Interview_Question%5D.ipynb)
  
 ### RANK() and DENSE_RANK()
 * Top 3 salaries, handling ties appropriately
@@ -12,18 +12,18 @@
 
 ### ROW_NUM()
 * Get multiple data fields for the third transaction for every user
-  * User's Third Transaction [Uber SQL Interview Question]
+  * [User's Third Transaction [Uber SQL Interview Question]](https://github.com/lawgorithm/sql_practice/blob/main/User's_Third_Transaction_%5BUber_SQL_Interview_Question%5D.ipynb)
 * Top three items per category by total spend
-  * Highest-Grossing Items [Amazon SQL Interview Question]
+  * [Highest-Grossing Items [Amazon SQL Interview Question]](https://github.com/lawgorithm/sql_practice/blob/main/Highest_Grossing_Items_%5BAmazon_SQL_Interview_Question%5D.ipynb)
 * Get odd an even measurements (by daily measurement time) from a sensor
   * [Odd and Even Measurements [Google SQL Interview Question].ipynb](https://github.com/lawgorithm/sql_practice/blob/main/Odd_and_Even_Measurements_%5BGoogle_SQL_Interview_Question%5D.ipynb)
 
 ### Timestamps
 * Events within a date range
-  * Histogram of Tweets [Twitter SQL Interview Question]
-  * Teams Power Users [Microsoft SQL Interview Question]
-* Complex date diffing (days, hours, seconds)
-  * Average Post Hiatus (Part 1) [Facebook SQL Interview Question]
+  * [Histogram of Tweets [Twitter SQL Interview Question]](https://github.com/lawgorithm/sql_practice/blob/main/Histogram_of_Tweets_%5BTwitter_SQL_Interview_Question%5D.ipynb)
+  * [Teams Power Users [Microsoft SQL Interview Question]](https://github.com/lawgorithm/sql_practice/blob/main/Teams_Power_Users_%5BMicrosoft_SQL_Interview_Question%5D.ipynb)
+* Complex date diffing (days, hours, seconds). E.g. EXTRACT(EPOCH FROM ts) to get seconds.
+  * [Average Post Hiatus (Part 1) [Facebook SQL Interview Question]](https://github.com/lawgorithm/sql_practice/blob/main/Average_Post_Hiatus_(Part_1)_%5BFacebook_SQL_Interview_Question%5D.ipynb)
 * Date diffing using the INTERVAL keyword
   * [Second Day Confirmation [TikTok SQL Interview Question]](https://github.com/lawgorithm/sql_practice/blob/main/Second_Day_Confirmation_%5BTikTok_SQL_Interview_Question%5D.ipynb)
 * DATE() function to extract date from timestamp
