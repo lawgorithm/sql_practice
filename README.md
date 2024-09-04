@@ -39,19 +39,19 @@
  
 ### LAG()
 * Get last year spend and this year spend to create a YoY spend change
-  * [https://github.com/lawgorithm/sql_practice/blob/main/Y_on_Y_Growth_Rate_%5BWayfair_SQL_Interview_Question%5D.ipynb](https://github.com/lawgorithm/sql_practice/blob/main/Y_on_Y_Growth_Rate_%5BWayfair_SQL_Interview_Question%5D.ipynb)
+  * [Y_on_Y_Growth_Rate_[Wayfair_SQL_Interview_Question].ipynb](https://github.com/lawgorithm/sql_practice/blob/main/Y_on_Y_Growth_Rate_%5BWayfair_SQL_Interview_Question%5D.ipynb)
 
 ### Joins
-* Page With No Likes [Facebook SQL Interview Question]
+* [Page With No Likes [Facebook SQL Interview Question]](https://github.com/lawgorithm/sql_practice/blob/main/Page_With_No_Likes_%5BFacebook_SQL_Interview_Question%5D.ipynb)
 * Self-joins on different columns
   * [Well Paid Employees [FAANG SQL Interview Question].ipynb](https://github.com/lawgorithm/sql_practice/blob/main/Well_Paid_Employees_%5BFAANG_SQL_Interview_Question%5D.ipynb)
 
 ### CASE ... WHEN instead of IF
-* Laptop vs. Mobile Viewership [New York Times SQL Interview Question]
+* [Laptop vs. Mobile Viewership [New York Times SQL Interview Question]](https://github.com/lawgorithm/sql_practice/blob/main/Laptop_vs_Mobile_Viewership_%5BNew_York_Times_SQL_Interview_Question%5D.ipynb)
 
 ### NULL handling
 * Replace IFNULL(X, 0) with COALESCE(X, 0)
-  * IBM db2 Product Analytics [IBM SQL Interview Question]
+  * [IBM db2 Product Analytics [IBM SQL Interview Question]](https://github.com/lawgorithm/sql_practice/blob/main/IBM_db2_Product_Analytics_%5BIBM_SQL_Interview_Question%5D.ipynb)
  
 ### Tricky subqueries 
 * SELECTing from another table in a WHERE clause for filtering
