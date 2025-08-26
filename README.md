@@ -25,6 +25,7 @@
 * Complex date diffing (days, hours, seconds). E.g. EXTRACT(EPOCH FROM ts) to get seconds.
   * [Average Post Hiatus (Part 1) [Facebook SQL Interview Question]](https://github.com/lawgorithm/sql_practice/blob/main/Average_Post_Hiatus_(Part_1)_%5BFacebook_SQL_Interview_Question%5D.ipynb)
 * Date diffing using the INTERVAL keyword
+  * E.g. confirmation_date - signup_date = INTERVAL '1 day' --> user confirmed 1 day after signing up
   * [Second Day Confirmation [TikTok SQL Interview Question]](https://github.com/lawgorithm/sql_practice/blob/main/Second_Day_Confirmation_%5BTikTok_SQL_Interview_Question%5D.ipynb)
 * DATE() function to extract date from timestamp
   * [Odd and Even Measurements [Google SQL Interview Question].ipynb](https://github.com/lawgorithm/sql_practice/blob/main/Odd_and_Even_Measurements_%5BGoogle_SQL_Interview_Question%5D.ipynb)
