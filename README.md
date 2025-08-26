@@ -20,6 +20,8 @@
 
 ### Timestamps
 * Events within a date range
+  * Note: for both timestamp and datetime data types, using strings to define a date range will work e.g. this will work: (ts >= '2023-07-01'
+  AND ts < '2023-10-01')
   * [Histogram of Tweets [Twitter SQL Interview Question]](https://github.com/lawgorithm/sql_practice/blob/main/Histogram_of_Tweets_%5BTwitter_SQL_Interview_Question%5D.ipynb)
   * [Teams Power Users [Microsoft SQL Interview Question]](https://github.com/lawgorithm/sql_practice/blob/main/Teams_Power_Users_%5BMicrosoft_SQL_Interview_Question%5D.ipynb)
 * Complex date diffing (days, hours, seconds). E.g. EXTRACT(EPOCH FROM ts) to get seconds.
