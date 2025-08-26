@@ -26,6 +26,7 @@
   * [Teams Power Users [Microsoft SQL Interview Question]](https://github.com/lawgorithm/sql_practice/blob/main/Teams_Power_Users_%5BMicrosoft_SQL_Interview_Question%5D.ipynb)
 * Complex date diffing (days, hours, seconds). E.g. EXTRACT(EPOCH FROM ts) to get seconds.
   * [Average Post Hiatus (Part 1) [Facebook SQL Interview Question]](https://github.com/lawgorithm/sql_practice/blob/main/Average_Post_Hiatus_(Part_1)_%5BFacebook_SQL_Interview_Question%5D.ipynb)
+  * Note: DATE_PART('DAY', later_date - earlier_date) will give the number of days in the INTERVAL later_date - earlier_date, i.e. the number of days between the two dates. Should also work with YEAR, MONTH, HOUR, MINUTE, SECOND etc
 * Date diffing using the INTERVAL keyword
   * E.g. confirmation_date - signup_date = INTERVAL '1 day' --> user confirmed 1 day after signing up
   * [Second Day Confirmation [TikTok SQL Interview Question]](https://github.com/lawgorithm/sql_practice/blob/main/Second_Day_Confirmation_%5BTikTok_SQL_Interview_Question%5D.ipynb)
