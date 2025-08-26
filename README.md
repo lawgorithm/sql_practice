@@ -66,6 +66,7 @@
 ### NULL handling
 * Replace IFNULL(X, 0) with COALESCE(X, 0)
   * [IBM db2 Product Analytics [IBM SQL Interview Question]](https://github.com/lawgorithm/sql_practice/blob/main/IBM_db2_Product_Analytics_%5BIBM_SQL_Interview_Question%5D.ipynb)
+* The purpose of COALESCE() is to handle NULL values. It takes a list of expressions and evaluates them from left to right. It returns the first expression that is not NULL. If all expressions in the list are NULL, the function returns NULL. E.g. COALESCE(col1, col2, 0)
  
 ### Tricky subqueries 
 * SELECTing from another table in a WHERE clause for filtering
