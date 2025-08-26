@@ -72,5 +72,6 @@
 
 ### Casting to other data types
 * Casting integers to decimal
+  * E.g. CAST(total_items / total_orders AS DECIMAL)
   * [Compressed_Mean_[Alibaba_SQL_Interview_Question].ipynb](https://github.com/lawgorithm/sql_practice/blob/main/Compressed_Mean_%5BAlibaba_SQL_Interview_Question%5D.ipynb)
 
