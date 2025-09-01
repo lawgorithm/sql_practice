@@ -3,6 +3,10 @@
 ### Rolling Averages
 * Rolling average of number of tweets (e.g. ROWS BETWEEN 2 PRECEDING AND CURRENT ROW)
   * [Tweets' Rolling Averages [Twitter SQL Interview Question]](https://github.com/lawgorithm/sql_practice/blob/main/Tweets'_Rolling_Averages_%5BTwitter_SQL_Interview_Question%5D.ipynb)
+  * e.g. AVG(tweet_count) OVER (
+    PARTITION BY user_id
+    ORDER BY tweet_date ASC
+    ROWS BETWEEN 2 PRECEDING AND CURRENT ROW) AS three_day_rolling_avg
  
 ### RANK() and DENSE_RANK()
 * Top 3 salaries, handling ties appropriately
